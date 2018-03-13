@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txt_digite_endereco">Digite o endereço</string>
+    <string name="txt_pesquisar">Pesquisar</string>
+    <string name="txt_ops_deu_ruim">Ops!!! Deu ruim!</string>
+    <string name="txt_end_nao_encontrado">Endereço não encontrado!</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_endereco_pesquisado">Endereço pesquisado</string>
+    <string name="txt_endereco_branco">Endereço em branco</string>
+</resources>
